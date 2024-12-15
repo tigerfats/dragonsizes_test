@@ -71,6 +71,15 @@ var newDragon = function(event){
 		wings.style.left = -d_wingspan/2 + d_length/13;
 	}
 	
+	if(d_breed !="auraboa"){
+		wings.style.left = -d_wingspan/2 + d_length/13;
+	}
+	
+	
+	if(d_breed !="auraboa2"){
+		wings.style.left = -d_wingspan/2 + d_length/15;
+	}
+	
 	else {
 		wings.style.left = -d_wingspan/2 + d_length/11;
 	}
