@@ -67,6 +67,10 @@ var newDragon = function(event){
 		wings.style.left = -d_wingspan/2 + d_length/6;
 	}
 	
+	if(d_breed !="aberration"){
+		wings.style.left = -d_wingspan/2 + d_length/13;
+	}
+	
 	else {
 		wings.style.left = -d_wingspan/2 + d_length/11;
 	}
