@@ -76,7 +76,7 @@ var newDragon = function(event){
 	}
 	
 	if(d_breed !="aetherf"){
-		wings.style.left = -d_wingspan/2 + d_length/10;
+		wings.style.left = -d_wingspan/2 + d_length/9;
 	}
 	
 	if(d_breed !="auraboa"){
@@ -84,20 +84,20 @@ var newDragon = function(event){
 	}
 	
 	if(d_breed !="everluxf"){
-		wings.style.left = -d_wingspan/2 + d_length/5;
+		wings.style.left = -d_wingspan/2 + d_length/3;
 	}
 	
 	if(d_breed !="everluxm"){
-		wings.style.left = -d_wingspan/2 + d_length/3;
+		wings.style.left = -d_wingspan/2 + d_length/2;
 	}
 	
 	
 	if(d_breed !="auraboa2"){
-		wings.style.left = -d_wingspan/2 + d_length/16;
+		wings.style.left = -d_wingspan/2 + d_length/14;
 	}
 	
 	if(d_breed !="obelisk"){
-		wings.style.left = -d_wingspan/2 + d_length/8;
+		wings.style.left = -d_wingspan/2 + d_length/10;
 	}
 	
 	else {
