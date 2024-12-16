@@ -84,7 +84,7 @@ var newDragon = function(event){
 	}
 	
 	if(d_breed !="everluxf"){
-		wings.style.left = -d_wingspan/4 + d_length/2;
+		wings.style.left = -d_wingspan/5 + d_length/2;
 	}
 	
 	if(d_breed !="everluxm"){
